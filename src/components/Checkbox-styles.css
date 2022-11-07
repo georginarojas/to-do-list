@@ -2,12 +2,13 @@
 @tailwind utilities;
 
 @layer components {
+
   .checkbox__label {
     @apply flex gap-4 items-start text-gray-100 text-sm;
   }
 
   .checkbox__label--checked {
-    @apply flex gap-4 items-start text-gray-300 text-sm line-through;
+    @apply checkbox__label text-gray-300 line-through;
   }
 
   .checkbox__span {
