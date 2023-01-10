@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "111",
+      "description": "Any task 1",
+      "hasDone": true
+    },
+    {
+      "id": "222",
+      "description": "Any task 2",
+      "hasDone": false
+    },
+    {
+      "id": "333",
+      "description": "Any task 3",
+      "hasDone": false
+    }
+  ]
+}
